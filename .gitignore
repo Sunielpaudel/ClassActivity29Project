@@ -1,0 +1,15 @@
+# Ignore listed files and folders
+.vs/
+*.sln
+*.vcxproj*
+ClassAct.a60c454b/
+x64/
+
+# Ignore other files if needed
+*.tmp
+*.log
+
+# Include only the specific files
+!main.cpp
+!movie.cpp
+!movie.hpp
